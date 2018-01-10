@@ -45,3 +45,7 @@ THE ARDUINO
 if __name__ == ('__main__'):
     print(run_string)
     print('Done.')
+
+if __name__ != ('__main__'):
+    print('first-day-notes.py successfully imported.')
+    print('first-day-notes.run_string contains the class notes.')
