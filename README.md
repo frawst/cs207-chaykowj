@@ -25,7 +25,7 @@ A small python script used for one very particular use. This could serve as a
 basis for a custom file parser script for future parsing needs. Who doesn't love
 command line ops? See folder contents for more info
 
-### mvgit (WORK IN PROGRESS)
+### mvgit
 **Filetypes**: bash (*NIX Systems or any BASH terminal on Windows)
 
 MOVE OR COPY git repositories on local hard drive. Handle's the removal of .git 
