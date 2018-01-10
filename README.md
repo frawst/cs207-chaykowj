@@ -21,6 +21,9 @@ folder's - including class NOTES ("./NOTES").
 ### file-parser-UA
 **Filetypes**: Python, .txt
 
+Contains a list of all the PROCESSING and JAVA keywords to add custom keywords
+or create a custom syntax in notepad++ for PROCESSING editing in notepad++.
+
 A small python script used for one very particular use. This could serve as a
 basis for a custom file parser script for future parsing needs. Who doesn't love
 command line ops? See folder contents for more info
