@@ -1,6 +1,5 @@
 # CS207 - Justyn Chaykowski
 
-## Description
 Computer Science 207 - University of Regina - Class Repository
 
 ## Contents
