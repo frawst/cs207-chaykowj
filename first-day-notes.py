@@ -1,4 +1,4 @@
-"""
+run_string = """
 (c) 2017 JUSTYN CHAYKOWSKI
 PROVIDED UNDER MIT LICENSE
 
@@ -41,3 +41,7 @@ THE ARDUINO
   - ORIGINALLY CALLED 'WIRING'
   - 
 """
+
+if __name__ == ('__main__'):
+    print(run_string)
+    print('Done.')
