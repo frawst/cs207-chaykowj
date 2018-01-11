@@ -13,13 +13,21 @@ movement of git repository locations on the local hard disk.
 ## Usage
 
 machine@DESKTOP ~/etc/mvgit
+
 $ ./move-it.bash -h
+
 $ ./move-it.bash -c "folder/old" "folder/new"
+
 $ ./move-it.bash -m "folder/old" "folder/new"
 
+
 -h, --help   This help output.
+
 -c           Copy. Leaves original folder intact, but removes .git link
+
 -m           Move. Also deletes the original folder.
+
 DIR_FROM     Directory to copy or move.
+
 DIR_TO       Destination directory.
  
