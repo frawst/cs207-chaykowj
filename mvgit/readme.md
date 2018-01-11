@@ -4,7 +4,7 @@ Github repository folder mover and copier.
 
 ## Function
 
-Running this script in a *UNIX environment with certain arguments will move or
+Running this script in a *NIX environment with certain arguments will move or
 copy a particular folder to another location, and will create the destination
 if it does not already exist. It will also remove any git links in the
 original file location and reassociate the new folder with git for easy
