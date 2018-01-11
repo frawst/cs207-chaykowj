@@ -18,6 +18,16 @@ repository is credited in the containing folder's README.md.
 Project library, all individual tools and projects are stored in their own
 folder's - including class NOTES ("./NOTES").
 
+### PROCESSING/
+**Filetypes**: Processing Sketches + Distributables
+
+Contains every project completed and in progress using processing during
+the duration of the semester. Many code examples from my own experiementation,
+resources for learning, functional code snippits, and anything else pertaining
+to Processing that I feel like making public.
+
+See inside for more details.
+
 ### file-parser-UA
 **Filetypes**: Python, .txt
 
@@ -39,3 +49,7 @@ other folders. This should prove useful!
 ## Contributing
 Well, if you're going to modify my work try to follow PEP-8 or whatever the
 standard format guide is for the language being submitted.
+
+## P.S.
+Some excellent beginner-intermediate tutorials for PROCESSING can be found here:
+https://processing.org/tutorials
