@@ -21,6 +21,7 @@ $ ./move-it.bash -c "folder/old" "folder/new"
 $ ./move-it.bash -m "folder/old" "folder/new"
 
 ------------------------------------------------
+$ ./move-it.bash -arg DIR_FROM DIR_TO
 
 **-h, --help**   This help output.
 
