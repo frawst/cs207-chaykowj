@@ -1,4 +1,16 @@
-import time
+from time import sleep
+
+"""
+Open file to output to in 'w'rite mode
+  Read editme.txt one line at a time using 'r'ead mode
+    get position of the first 'TAB' character in line
+    if there is no TAB character
+      Log to console line is not being added to output
+    else if a TAB character was found
+      Write the read line to output from the start to where the first TAB is
+    something else happens (This would be unexpected.)
+      Log some message to user, this should really be a better ERROR message.
+"""
 
 with open('output.txt', 'w') as output:
     for line in open('editme.txt', 'r'):
@@ -10,6 +22,6 @@ with open('output.txt', 'w') as output:
             else:
                 print('No entry found on line.')
 
-print('done')
-time.sleep(1)
+print('done')  # No error occurred during operation, exit notification.
+sleep(1)  # Wait 1 second before exiting script
 

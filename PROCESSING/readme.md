@@ -10,8 +10,6 @@ See below for more details on the individual projects.
 
 The first thing I have written in processing. I took a challenge from the
 [processing code challenge subreddit](https://www.reddit.com/r/processing/comments/4acjwd/processing_weekly_challenge_1_light_switch/)
-
-
 and from there just started writing. I used [official processing documentation](https://processing.org/reference/)
 and the PROCESSING > FILE > EXAMPLES window to learn how to use the language.
 I learned that it might be a good idea to learn some basic Java/JS syntax.
@@ -22,5 +20,5 @@ setup() and display().
 
 ### Extra Notes
 
-Some excellent beginner-intermediate tutorials for PROCESSING can be found [here.](https://processing.org/tutorials)
+[Some basic beginner video tutorials for processing.](https://processing.org/tutorials)
 
