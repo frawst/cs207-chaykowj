@@ -22,13 +22,13 @@ $ ./move-it.bash -m "folder/old" "folder/new"
 
 ------------------------------------------------
 
--h, --help   This help output.
+**-h, --help**   This help output.
 
--c           Copy. Leaves original folder intact, but removes .git link
+**-c**           Copy. Leaves original folder intact, but removes .git link
 
--m           Move. Also deletes the original folder.
+**-m**           Move. Also deletes the original folder.
 
-DIR_FROM     Directory to copy or move.
+**DIR_FROM**     Directory to copy or move.
 
-DIR_TO       Destination directory.
+**DIR_TO**       Destination directory.
  
