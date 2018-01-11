@@ -50,6 +50,5 @@ other folders. This should prove useful!
 Well, if you're going to modify my work try to follow PEP-8 or whatever the
 standard format guide is for the language being submitted.
 
-## P.S.
-Some excellent beginner-intermediate tutorials for PROCESSING can be found here:
-https://processing.org/tutorials
+If you are not sure what style guide to follow, please follow [PEP-8](https://www.python.org/dev/peps/pep-0008/)
+and keep [PEP-20](https://www.python.org/dev/peps/pep-0020/) in mind as you work.
