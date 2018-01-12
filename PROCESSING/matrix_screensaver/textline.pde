@@ -1,13 +1,19 @@
 class Textline{
 
   String i_am = "";
+  int xpos = 0;
+  int yspeed = 1;
+  int ypos = int(-random(200,500));
+  Textline(int val){
+    xpos = val;  // "y-pos" .. figure is rotated 90degrees
+  }
 
   void update(){
-    xpos = 200;
+    ypos += yspeed;
   }
 
   void show(){
-    text(i_am, xpos, -100);
+    text(i_am, ypos, xpos);
   }
   
   void build(String alphabet){

@@ -2,8 +2,7 @@
 
 String charstring = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789";
 //char[] charlib;
-int xpos = 0;
-Textline a_line = new Textline();
+Textline[] my_lines = new Textline[10];
 
 void setup() {
   size(800, 600);
@@ -14,7 +13,11 @@ void setup() {
   fill(64, 243, 45);
   stroke(64, 243, 45);
   textSize(14);
-  a_line.build(charstring);
+  for (int i = 0; i < my_lines.length; i++){
+    float random_pos = random(width) * -1;
+    my_lines[i] = new Textline(int(random_pos));
+    my_lines[i].build(charstring);
+  }
 
   //for (int i = 0; i < charstring.length(); i++) {
   //  charlib[i] = charstring.charAt(i);
@@ -26,11 +29,9 @@ void draw() {
   //clear();
   background(0);
   rotate(radians(90));
-  text("some text", xpos, -100);
-  a_line.update();
-  a_line.show();
-  xpos += 3;
-  if (xpos > height) {
-    xpos -= xpos + (xpos / 2);
+  for (int i = 0; i < my_lines.length; i++){
+   my_lines[i].update();
+   my_lines[i].show();
   }
+
 }
