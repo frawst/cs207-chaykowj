@@ -103,7 +103,13 @@ and file downloads (under 5mb) as a comment on the [External Links and Resources
 
 ## Other Resources
 
+https://codepen.io/ -- "Twitter" for general web-scripting (HTML/CSS/JS) Open Source! Can host p5js processing projects!
+
 https://www.openprocessing.org/ -- "Twitter" for Processing code and examples. Open Source!!
+
+[processing code challenge subreddit](https://www.reddit.com/r/processing/wiki/pwc)
+
+[official processing documentation](https://processing.org/reference/)
 
 ## Latest CLOC output for /cs207-chaykowj/
 
