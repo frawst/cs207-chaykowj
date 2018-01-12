@@ -9,7 +9,7 @@ See below for more details on the individual projects.
 ## clock-thingy
 
 The first thing I have written in processing. I took a challenge from the
-[processing code challenge subreddit](https://www.reddit.com/r/processing/comments/4acjwd/processing_weekly_challenge_1_light_switch/)
+[processing code challenge subreddit](https://www.reddit.com/r/processing/wiki/pwc)
 and from there just started writing. I used [official processing documentation](https://processing.org/reference/)
 and the PROCESSING > FILE > EXAMPLES window to learn how to use the language.
 I learned that it might be a good idea to learn some basic Java/JS syntax.
