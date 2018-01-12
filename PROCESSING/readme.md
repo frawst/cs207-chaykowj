@@ -18,6 +18,13 @@ This is at best an example of what some code can do. The project contains
 2 classes (Clock, Man) and 12 total functions including processing's own
 setup() and display().
 
+## morse-converter
+
+[Click here to view a demo. (links to YouTube)](https://www.youtube.com/watch?v=N6sVACk4a-c)
+
+Source file's will be uploaded as necessary and only when documentation is
+in a reasonable state.
+
 ### Extra Notes
 
 [Some basic beginner video tutorials for processing.](https://processing.org/tutorials)

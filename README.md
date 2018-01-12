@@ -1,8 +1,9 @@
-# CS207 - Justyn Chaykowski
+# CS207 / CS 205 - Justyn Chaykowski
 
 This repository contains codified class notes, and tools created with relevant
-applications. Some examples include (TODO: Make good examples.) See below for
-brief descriptions of every directory/project.
+applications. Some examples include a localfile/git repo mover/copier (TODO: 
+Add more good examples.) See below for brief descriptions of every
+directory/project.
 
 Everything within this repository is protected by MIT License under
        (c) 2017 Justyn Chaykowski
@@ -22,11 +23,14 @@ folder's - including class NOTES ("./NOTES").
 **Filetypes**: Processing Sketches + Distributables
 
 Contains every project completed and in progress using processing during
-the duration of the semester. Many code examples from my own experiementation,
-resources for learning, functional code snippits, and anything else pertaining
-to Processing that I feel like making public.
+the duration of the semester which are not a part of class assignments.
+Many code examples from my own experiementation, resources for learning,
+functional code snippits, and anything else pertaining to Processing 
+that I feel like making public.
 
 See inside for more details.
+
+**Includes DEMO for MORSE CODE CONVERTER**
 
 ### file-parser-UA
 **Filetypes**: Python, .txt
@@ -45,6 +49,13 @@ MOVE OR COPY git repositories on local hard drive. Handle's the removal of .git
 files allowing for the safe and easy relocation of git repositories and most
 other folders. This should prove useful!
 
+### CS207/
+
+All projects and misc. code created specifically for assignments in CS207.
+
+### CS205/
+
+All projects and misc. code created specifically for assignments in CS205.
 
 ## Contributing
 Well, if you're going to modify my work try to follow PEP-8 or whatever the
