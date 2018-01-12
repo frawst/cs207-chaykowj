@@ -63,3 +63,24 @@ standard format guide is for the language being submitted.
 
 If you are not sure what style guide to follow, please follow [PEP-8](https://www.python.org/dev/peps/pep-0008/)
 and keep [PEP-20](https://www.python.org/dev/peps/pep-0020/) in mind as you work.
+
+## Latest CLOC output for /cs207-chaykowj/
+
+`commit 0fae2cf8ff814e7caa099a8c7f3c29d386302564` ( `e9ffc78` )
+```
+      14 text files.
+      14 unique files.
+      12 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.50 s (22.0 files/s, 1032.0 lines/s)
+--------------------------------------------------------------------------------
+Language                      files          blank        comment           code
+--------------------------------------------------------------------------------
+Arduino Sketch                    3             39             37            136
+Markdown                          5             56              0            101
+Bourne Again Shell                1             12             16             41
+Python                            2             16             43             19
+--------------------------------------------------------------------------------
+SUM:                             11            123             96            297
+--------------------------------------------------------------------------------
+```
