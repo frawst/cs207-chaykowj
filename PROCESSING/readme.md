@@ -25,7 +25,7 @@ setup() and display().
 Source file's will be uploaded as necessary and only when documentation is
 in a reasonable state.
 
-### Extra Notes
+### Resources
 
 [Some basic beginner video tutorials for processing.](https://processing.org/tutorials)
 
