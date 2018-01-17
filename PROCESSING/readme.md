@@ -1,8 +1,8 @@
 # PROCESSING
 
 This folder contains all projects started and / or finished using processing
-during the duration of the class. These vary from completely useless examples
-of code to genuinely useful tools / rendering solutions.
+during the duration of the class. These vary from barely useful `WIP` examples
+of code which applied to course content.
 
 See below for more details on the individual projects.
 

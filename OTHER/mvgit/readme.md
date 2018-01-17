@@ -2,6 +2,8 @@
 
 Github repository folder mover and copier.
 
+## THIS IS A WIP, USE AT OWN RISK.
+
 ## Function
 
 Running this script in a *NIX environment with certain arguments will move or
