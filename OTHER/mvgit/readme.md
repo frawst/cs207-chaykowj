@@ -4,6 +4,15 @@ Github repository folder mover and copier.
 
 ## THIS IS A WIP, USE AT OWN RISK.
 
+## WARNING:
+
+This script is not optimized for all systems, and is known to cause serious
+issues when attempting to move files from one drive to another and thus it is
+recommended to only use this for moving files within the same directory tree.
+
+This issue will be examined, please consider making a pull request if you
+have worked on the issue!
+
 ## Function
 
 Running this script in a *NIX environment with certain arguments will move or
