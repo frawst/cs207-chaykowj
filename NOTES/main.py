@@ -5,6 +5,8 @@ and exporting to document types.
 
 import c1notes, c2notes
 
+PARSEF = 0
+
 def print_note(notes):
     print(notes)
     
@@ -14,8 +16,21 @@ def parse_for_keywords(notes):
             # Mark a starts
             # Find the end
             # Save the locations
+            # Change PARSEF to Parse AFTER this string position
+            pass
     
-    # Print the keywords
+    print('return')
+    
+def parse_for_headers(notes):
+    for char in notes:
+        if (char == '#'):
+            # Mark a starts
+            # Find the end
+            # Save the locations
+            # Change PARSEF to Parse AFTER this string position
+            pass
+            
+    print('return')
 
 print(c1notes.NOTES)
 
