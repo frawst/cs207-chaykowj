@@ -13,7 +13,8 @@ def print_note(notes):
 def parse_for_keywords(notes):
     for char in notes:
         if (char == '*'):
-            # Mark a starts
+            # Mark a start
+            # Ensure the set starts with TWO markers
             # Find the end
             # Save the locations
             # Change PARSEF to Parse AFTER this string position
@@ -25,6 +26,7 @@ def parse_for_headers(notes):
     for char in notes:
         if (char == '#'):
             # Mark a starts
+            # Ensure the set starts with TWO markers
             # Find the end
             # Save the locations
             # Change PARSEF to Parse AFTER this string position

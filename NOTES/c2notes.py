@@ -70,10 +70,59 @@ http://fritzing.org/download/?donation=0
 ROM Dumping and Reverse ROM Engineering - NOT TAUGHT IN THIS CLASS
 -- MAY BE WORTH A GOOGLE !!
 
+## Electronics:
+  - **Electron**
+    - One 'bit' of current
+    
+  - **Current**
+  
+    - Number of electron's which pass by a a point X per time Y
+    - Measure is called Ampere's or **Amps**
+    - Indicated by an I >> ("Intensity")
+    
+  - **Resistance**
+    - Opposition to the current
+    
+  - **Voltage**
+    - "Electron Pressure"
+    - The amount of electronic force which is available at a particular point
+      or as stored (like in a battery.)
+    - The difference of 'voltage' in pos X compared to it's destination Y
+      or 'potential difference'.
+    - VOLTAGE IS RELATIVE TO THE MINIMUM VOLTAGE IN THE CIRCUIT -- WHERE IF
+      THE MINIMUM VOLTAGE IS 3V, AND THE POINT MEASURED IS 5V, THEN THE VOLTAGE
+      READ WILL BE 2V.
 
-## Homework:
-
-
+## **OHM'S LAW**
+RELATIONSHIP BETWEEN VOLTAGE, CURRENT, AND RESISTANCE
+  VOLTAGE = CURRENT(I) * RESISTANCE(OHM)
+  VOLTAGE / RESISTANCE(OHM) = CURRENT(I)
+  
+Suddenly a list of electronic components:
+  - Resistor - Resists an electronic flow*
+  - Capacitor - Stores a charge until it reaches a certain intensity then
+    discharges it all at once.
+  - Diode - Electric component which only allows electricity to flow one
+    direction
+  - Light Emitting Diode (Diode + Resistance) - Same as Diode but also emits
+    light.
+  - Transistor - Acts as a switch and/or an amplifier (controls one flow
+    by altering another smaller flow.) This is the basis for modern computer
+    since ONE transistor is in effect, one BIT of DATA. By applying a small
+    charge to the transistor, it is 'open' or 'ON', and if charge is removed
+    than the flow is stopped and is thus 'closed' or 'OFF'.
+  - Battery
+  
+  ,---RESISTOR---,
+  |              |
+  |              |
+  |              |
+ --- +           |
+ BATTERY        LED
+  -  -           |
+  |              |
+  |              |
+  '--------------'
 """
 
 if __name__ == ('__main__'):
