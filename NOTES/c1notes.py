@@ -23,7 +23,7 @@ W 12-6 PM
 'FIRST FINAL EXAM QUESTION':
  - SEE THE TOPICS MAP PROVIDED "TOPIC_MAP_EXAMQ_1_2.JPG"
 
-HACKER:
+**HACKER**:
 A MORE LEGITIMATE DEFINITION: "SOMEONE WHO MAKES A DEVICE DO SOMETHING OTHER
 THAN IT WAS ORIGINALLY INTENDED TO DO."
 
@@ -32,14 +32,13 @@ PURPOSES."
 
 RICHARD STALLMAN'S DEFINITION: "SOMEONE WHO ENJOYS PLAYFUL CLEVERNESS"
 
-"MAKER MOVEMENT"
+**MAKER MOVEMENT**
 'MAKING' BECOMES MAINSTREAM THANKS TO NEW TECHNOLOGIES ENTERING PUB. DOMAIN:
   1. FUSED DEPOSITION MOULDING
   2. ARDUINO
 
 THE ARDUINO
   - ORIGINALLY CALLED 'WIRING'
-  - 
 """
 
 if __name__ == ('__main__'):
@@ -47,5 +46,5 @@ if __name__ == ('__main__'):
     print('Done.')
 
 if __name__ != ('__main__'):
-    print('first-day-notes.py successfully imported.')
-    print('first-day-notes.NOTES the class notes.')
+    print('c1_notes.py successfully imported.')
+    print('c1_notes.NOTES the class notes.')
