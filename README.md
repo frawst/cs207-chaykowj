@@ -21,14 +21,10 @@ Everything within this repository is protected
 Work which does not belong under that copyright, or the MIT License for this
 repository is credited in the containing folder's README.md.
 
-TODO: Add examples?
-
+## Navigation
 
 Folder's marked by two preceding numbers `a01some_folder/ ; a02some_other_folder` contain class assignments and
 projects. NOTE: None of these exist quite yet!
-
-
-## Navigation
 
 This is the project library directory, all individual tools and projects are stored in their own
 folder's - including class [NOTES/](NOTES/.).
